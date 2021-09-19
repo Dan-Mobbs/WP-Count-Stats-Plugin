@@ -1,0 +1,9 @@
+/*Plugin Wrapper*/
+.form_wrapper { background-color: pink; padding: 2rem; margin: 0 auto }
+
+/*Plugin Header*/
+.form_header { text-align: center; font-weight: 900; }
+
+/*Plugin Content Styles*/
+.input { width: 100%; margin: 15px 0!important; border: solid 3px #ddd }
+.btn { width: 100%; font-weight: 900; border: 2px #fff dashed; }
